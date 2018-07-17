@@ -1,13 +1,22 @@
 ---
 title: 入門
-description: 在**入門**章節中我們介紹 Python 的資料科學開發環境、基礎語法與基本的變數型別，透過本章節的說明與互動練習，您將暸解 Google Colaboratory、Anaconda、Jupyter Notebook/Lab、賦值、註解、數值、文字與布林。
+description: 在入門章節中我們介紹 Python 的資料科學開發環境、基礎語法與基本的變數型別，透過本章節的說明與互動練習，您將暸解 Google Colaboratory、Anaconda、Jupyter Notebook/Lab、賦值、註解、數值、文字與布林。
 ---
 
 ## Google Colaboratory
 
 ```yaml
 type: VideoExercise 
-lang: r
+lang: python
+xp: 50 
+video_link: https://vimeo.com/user87393159/review/280333177/2d1a7df745
+```
+
+## Anaconda
+
+```yaml
+type: VideoExercise 
+lang: python
 xp: 50 
 video_link: https://vimeo.com/user87393159/review/280333177/2d1a7df745
 ```
