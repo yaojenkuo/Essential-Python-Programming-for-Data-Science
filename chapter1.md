@@ -6,10 +6,11 @@ description: 在入門章節中我們介紹 Python 的資料科學開發環境�
 ## Google Colaboratory
 
 ```yaml
-type: VideoExercise 
+type: VideoExercise
 lang: python
-xp: 50 
+xp: 50
 video_link: https://youtu.be/z3XDYUjw0Ow
+key: b4815f2d7a
 ```
 
 ---
