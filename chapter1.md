@@ -8,14 +8,8 @@ description: 在入門章節中我們介紹 Python 的資料科學開發環境�
 ```yaml
 type: VideoExercise
 lang: python
-<<<<<<< HEAD
 xp: 50 
 video_link: //player.vimeo.com/video/280333177
-=======
-xp: 50
-video_link: https://youtu.be/z3XDYUjw0Ow
-key: b4815f2d7a
->>>>>>> 22be9b83a9c186afcadf74f3c3b1816efd7df040
 ```
 
 ---
