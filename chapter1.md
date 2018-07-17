@@ -10,10 +10,9 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 0e88bfc6cc
 ```
 
-Pytho 使用 `=` 來進行賦値。
+Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。
 
 `@instructions`
 - 將 `87` 指派給 `stupid_int` 物件
@@ -45,6 +44,10 @@ stupid_int = 87
 
 ```{python}
 # Update this to something more informative.
+test_error()
+test_object("stupid_int",
+            undefined_msg = "Make sure to define `x`!",
+            incorrect_msg = "Have you correctly assigned 5 to `x`!")
 success_msg("太棒了！")
 ```
 
@@ -57,7 +60,7 @@ xp: 100
 skills: 2
 ```
 
-Python 使用 `#` 來做註解。
+Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。
 
 `@instructions`
 - 在程式碼中透過 `#` 來做註解
@@ -87,5 +90,6 @@ Python 使用 `#` 來做註解。
 
 ```{python}
 # Update this to something more informative.
+test_error()
 success_msg("太棒了！")
 ```
