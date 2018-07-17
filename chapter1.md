@@ -10,6 +10,7 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
+key: 0e88bfc6cc
 ```
 
 Pytho 使用 `=` 來進行賦値。
