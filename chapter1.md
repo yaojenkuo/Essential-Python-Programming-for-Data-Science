@@ -21,6 +21,7 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
+key: 7f85384617
 ```
 
 Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。Pytho 使用 `=` 來進行賦値。
@@ -71,6 +72,7 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
+key: 74d148eeb0
 ```
 
 Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。Python 使用 `#` 來做註解。
