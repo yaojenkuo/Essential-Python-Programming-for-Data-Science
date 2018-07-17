@@ -9,7 +9,7 @@ description: 在入門章節中我們介紹 Python 的資料科學開發環境�
 type: VideoExercise 
 lang: python
 xp: 50 
-video_link: https://youtu.be/z3XDYUjw0Ow
+video_link: //player.vimeo.com/video/280333177
 ```
 
 ---
