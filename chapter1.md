@@ -9,7 +9,7 @@ description: 在**入門**章節中我們介紹 Python 的資料科學開發環�
 type: VideoExercise 
 lang: r
 xp: 50 
-video_link: https://youtu.be/AjK3jekXOl4
+video_link: https://vimeo.com/user87393159/review/280333177/2d1a7df745
 ```
 
 ## An exercise title written in sentence case
