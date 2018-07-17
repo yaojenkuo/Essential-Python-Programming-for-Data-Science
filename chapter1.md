@@ -3,7 +3,7 @@ title: 入門
 description: 在入門章節中我們介紹 Python 的資料科學開發環境、基礎語法與基本的變數型別，透過本章節的影片說明與互動練習，您將暸解 Google Colaboratory、Anaconda、Jupyter Notebook/Lab、賦值、註解、數值、文字與布林。
 ---
 
-## Assignment
+## 賦值
 
 ```yaml
 type: NormalExercise
@@ -51,7 +51,9 @@ test_object("stupid_int",
 success_msg("太棒了！")
 ```
 
-## Comments
+---
+
+## 註解
 
 ```yaml
 type: NormalExercise
